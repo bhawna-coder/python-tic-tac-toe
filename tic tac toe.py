@@ -3,6 +3,7 @@ from tkinter import messagebox
 root=Tk()
 
 root.title("Welcome to TIC-Tac-Toe ")
+root.wm_iconbitmap("tic-tac-toe_39453.ico")
 root.geometry("400x300")
 
 lbl=Label(root,text="Tic-tac-toe Game",font=('Helvetica','15'))
