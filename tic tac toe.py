@@ -2,9 +2,9 @@ from tkinter import *
 from tkinter import messagebox
 root=Tk()
 
-root.title("Welcome to TIC-Tac-Toe ")
-root.wm_iconbitmap("tic-tac-toe_39453.ico")
-root.geometry("400x300")
+root.title("Welcome To TIC-TAC-TOE ")
+root.wm_iconbitmap("tic-tac-toe_39453 (1).ico")
+root.geometry("500x300")
 
 lbl=Label(root,text="Tic-tac-toe Game",font=('Helvetica','15'))
 lbl.grid(row=0,column=0)
